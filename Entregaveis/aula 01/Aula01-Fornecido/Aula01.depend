@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1629381618 source:c:\users\dayan\documents\poli\2º sem 2021 (ead)\pcs3111 - lab de programação oo\aula 01\aula01-fornecido\aula01.cpp
+	<stdio.h>
+
+1631150002 source:c:\users\dayan\documents\poli\2º sem 2021 (ead)\pcs3111 - lab poo\aula 01\aula01-fornecido\aula01.cpp
+	<stdio.h>
+	<iostream>
+
